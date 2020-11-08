@@ -1,0 +1,9 @@
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.csprojAssemblyReference.cache
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.AssemblyInfoInputs.cache
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.AssemblyInfo.cs
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.dll
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.pdb
+C:\POC\QSharp\QSharpPOC\QSharpPOC\bin\Debug\netstandard2.1\QSharpPOC.deps.json
+C:\POC\QSharp\QSharpPOC\QSharpPOC\bin\Debug\netstandard2.1\QSharpPOC.dll
+C:\POC\QSharp\QSharpPOC\QSharpPOC\bin\Debug\netstandard2.1\QSharpPOC.pdb
+C:\POC\QSharp\QSharpPOC\QSharpPOC\obj\Debug\netstandard2.1\QSharpPOC.csproj.CoreCompileInputs.cache
